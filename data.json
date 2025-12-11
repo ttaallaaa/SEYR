@@ -1,0 +1,28 @@
+{
+  "branches": [
+    {
+      "name": "Riyadh – Al Morooj",
+      "current": 18,
+      "next_hour": 25,
+      "status": "low"
+    },
+    {
+      "name": "Riyadh – Al Yarmouk",
+      "current": 42,
+      "next_hour": 55,
+      "status": "medium"
+    },
+    {
+      "name": "Riyadh – Al Shifa",
+      "current": 73,
+      "next_hour": 92,
+      "status": "high"
+    },
+    {
+      "name": "Riyadh – Al Malaz",
+      "current": 34,
+      "next_hour": 40,
+      "status": "medium"
+    }
+  ]
+}
